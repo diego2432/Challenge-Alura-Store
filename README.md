@@ -23,9 +23,9 @@ Cada dataset incluye información sobre:
 
 ## Tecnologías Utilizadas
 - **Python 3**
-- **Pandas** → Limpieza y análisis de datos  
-- **Matplotlib / Seaborn** → Visualización de resultados  
-- **Google Colab** → Desarrollo y documentación del análisis  
+- **Pandas** -> Limpieza y análisis de datos  
+- **Matplotlib** -> Visualización de resultados  
+- **Google Colab** -> Desarrollo y documentación del análisis  
 
 ---
 
